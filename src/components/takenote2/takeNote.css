@@ -1,0 +1,95 @@
+.d3{
+    height: 32vh;
+    width: 100vw;
+    display: flex;
+    border: 0px solid blue;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+   
+}
+.j1{
+    height: 70%;
+    width: 50%;
+    display: flex;
+    border: 1px solid gainsboro;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: 2px 5px 5px  rgba(134, 131, 131, 0.587);
+
+}
+.j2{
+    height: 30%;
+    width: 95%;
+    display: flex;
+    border: 0px solid rgb(136, 255, 0);
+   color: rgb(89, 86, 86);
+   font-size: large;
+   align-items: center;
+   justify-content: space-between;
+}
+.j3{
+    height: 35%;
+    width: 95%;
+    display: flex;
+    border: 0px solid rgb(136, 255, 0);
+   color: rgb(89, 86, 86);
+   font-size: medium;
+   align-items: center;
+   flex-direction: row;
+}
+#t2{
+    width: 100%;
+    height: 80%;
+    border: 0px solid white;
+    outline-color: none;
+}
+.takenote{
+    height: 35%;
+    width: 95%;
+
+}
+.j4{
+    height: 30%;
+    width: 97%;
+    display: flex;
+    border: 0px solid rgb(136, 255, 0);
+   color: rgb(89, 86, 86);
+   font-size: medium;
+   align-items: flex-start;  
+   justify-content: space-evenly;
+   flex-direction: row;
+}
+.j5{
+    height: 100%;
+    width: 70%;
+    display: flex;
+    border: 0px solid rgb(136, 255, 0);
+   color: rgb(89, 86, 86);
+   font-size: medium;
+   align-items: center;  
+   justify-content: space-between; 
+}
+#k1{
+    height: 50%;
+    width: 10%;
+}
+.j6{
+height: 100%;
+width: 30%;
+display: flex;
+border: 0px solid fuchsia;
+justify-content: flex-end;
+align-items: center;
+font-size: medium;
+}
+#j8{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    color: black;
+    border: 0px solid green;
+    align-items: center;
+    justify-content: center;
+}
